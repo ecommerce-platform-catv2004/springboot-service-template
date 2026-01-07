@@ -82,7 +82,7 @@ mvn clean package
 ```
 Build Docker image:
 ```bash
-docker build -t springboot-service-template .
+docker build -t springboot-service-template
 ```
 
 ## 🔐 Notes
